@@ -1,4 +1,4 @@
-#Laravel ACL GUI using Spatie Laravel Permission and Yazra Datatable with Ajax
+# Laravel ACL GUI using Spatie Laravel Permission and Yazra Datatable with Ajax
 
 
 ### Requirements
