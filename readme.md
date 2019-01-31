@@ -32,6 +32,11 @@
     3. php artisan config:cache if need
     4. php artisan clear-compiled if need    
     
+### Note*
+    
+    Don't delete or edit already added permissions to avoid error
+    
+    
          
 ### Login
          
