@@ -25,7 +25,7 @@
     
 ### Troubleshootings
     
-    All MOdels are in App/Models folder
+    All Models are in App/Models folder
     
     1. Add 'model' => App\Models\User::class, in config/auth.php providers
     2. Try composer composer dump-autoload if need
@@ -41,7 +41,7 @@
 ### Login
          
          email : admin@admin.com
-         pass :  admin123
+         pass :  123456
     
 Output : 
 
